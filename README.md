@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Design and Front-end frameworks
 - 💞️ I’m looking to collaborate on some of my projects (whose backend I cannot make right now)
-- 📫 How to reach me? Ans. See if github has a message option.
+- 📫 How to reach me? Connect me on <a href="https://www.linkedin.com/in/sarthak-gupta-webdev/">Linkedin
 
 <!---
 sarthakg043/sarthakg043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
