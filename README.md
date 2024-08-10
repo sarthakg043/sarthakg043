@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sarthak
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Design and Front-end frameworks
+- 👀 I’m a web Developer - MERN Stack
+- 🌱 I’ve expertise in Frontend including responsive Design with mobile-first principle.
+- 🌸 I'm also a cybersecurity enthusiast and had developed network security tool, <a href="https://github.com/sarthakg043/bharatdns">BharatDNS</a>
 - 💞️ I’m looking to collaborate on some of my projects
 - 📫 How to reach me? Connect me on <a href="https://www.linkedin.com/in/sarthak-gupta-webdev/">Linkedin
 
